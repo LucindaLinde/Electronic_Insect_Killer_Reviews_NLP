@@ -23,13 +23,18 @@ For Data Scientists, here’s the approach taken:
 
     o	Combine the review and summary text fields
     o	Make text lower case, take out common words (like ‘the’), take out words with 3 or fewer characters, ignore special characters, tokenize the words
+    
 •	Use TFIDF vectorizer to make the words processable by machine learning algorithms 
+
 •	Look at groups of 2, 3 and 4 consecutive words (n-grams); not single words
+
 •	Apply Random Forest algorithm to predict if the review is a Positive Review (4 or 5 stars) or a Negative Review (1, 2 or 3 stars)
     o	Train model on 75% of the data, have model make predictions on 25% of the data 
     o	Model predicted pretty well; AUC = 0.86, overall accuracy = 0.82.
     o	Recall of predicting a Positive Review was 0.99 but Recall of predicting a Negative Review was only 0.27.  
+    
 •	Look at the 200 most influential word groups that are predictive of a positive or negative review. 
     o	Manually pick out the groups of words that look like they deal with product flaws. For this article, I focused on the bulb because it showed up 4 times within the top 26 word-combinations.
     o	Manually scan the subset of reviews that deal with the bulb to understand more about the context. 
+    
 •	Put together cross-functional action plan to address the product attribute that makes customers so unhappy. 
