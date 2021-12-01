@@ -44,3 +44,10 @@ For Data Scientists, here’s the approach taken:
     o	Manually scan the subset of reviews that deal with the bulb to understand more about the context. 
     
 •	Put together cross-functional action plan to address the product attribute that makes customers so unhappy. 
+
+#### References
+1 Dave Fedewa, Chauncey Holder, Warren Teichner, and Bill Wiseman. Five-star growth: Using online ratings to design better products.
+Website: https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/five-star-growth-using-online-ratings-to-design-better-products
+
+2 Jianmo Ni, Jiacheng Li, Julian McAuley. Justifying recommendations using distantly-labeled reviews and fined-grained aspects. Empirical Methods in Natural Language Processing (EMNLP), 2019 pdf Website: https://nijianmo.github.io/amazon/index.html#subsets 
+
