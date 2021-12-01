@@ -1,4 +1,8 @@
 # Electronic_Insect_Killer_Reviews_NLP
+### 
+### See article on LinkedIn:  "Your Road to More Sales May be Paved with Bad Reviews"
+###
+##### https://www.linkedin.com/pulse/your-road-more-sales-may-paved-bad-reviews-lucinda-linde/
 Product Reviews contain valuable information about which product flaws cause negative reviews. Natural Language Processing of these reviews reveals patterns based on thousands of reviews and results in a prioritized list. Product managers can therefore spend their scarce resources fixing the most impactful problems.
 
 A recent McKinsey article shows that improving product ratings from 3 stars to 4 stars can raise revenues between 20 to 70% across product categories 1.
