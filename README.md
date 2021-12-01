@@ -5,6 +5,8 @@
 ##### https://www.linkedin.com/pulse/your-road-more-sales-may-paved-bad-reviews-lucinda-linde/
 Product Reviews contain valuable information about which product flaws cause negative reviews. Natural Language Processing of these reviews reveals patterns based on thousands of reviews and results in a prioritized list. Product managers can therefore spend their scarce resources fixing the most impactful problems.
 
+### Intro
+
 A recent McKinsey article shows that improving product ratings from 3 stars to 4 stars can raise revenues between 20 to 70% across product categories 1.
 
 Bad product reviews contain valuable information about which product failings cause 1, 2 and 3 star reviews.   Applying Natural Language Processing (NLP) machine learning to thousands of reviews can yield a prioritized list of product attributes to fix.
@@ -13,7 +15,7 @@ During a recent project, I applied NLP to the Amazon Reviews for a company’s p
 
 To narrow things down, I looked at the Lawn Patio Garden category and specifically at one Electronic Insect Killer product that had an average rating of 4.1 stars across 8166 reviews. There were 6252 Positive Reviews (4 or 5-star ratings) and 1914 Negative Reviews (1, 2 or 3-star ratings). 
 
-Summary of NLP Approach
+### Summary of NLP Approach
 
 For Data Scientists, here’s the approach taken:
 
