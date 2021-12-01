@@ -12,10 +12,15 @@ To narrow things down, I looked at the Lawn Patio Garden category and specifical
 Summary of NLP Approach
 
 For Data Scientists, here’s the approach taken:
+
 •	Model built using Python 3 and scikit-learn, NLTK packages
+
 •	Load and merge the two product data sets for the Electronic Insect Killer product
+
 •	Keep only the ‘review’, ‘summary’ and ‘rating’ columns
+
 •	Preprocess the text 
+
     o	Combine the review and summary text fields
     o	Make text lower case, take out common words (like ‘the’), take out words with 3 or fewer characters, ignore special characters, tokenize the words
 •	Use TFIDF vectorizer to make the words processable by machine learning algorithms 
